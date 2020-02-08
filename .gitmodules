@@ -102,3 +102,8 @@
 	path = OCA/event
 	url = git@github.com:OCA/event.git
 	branch = 12.0
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 12.0

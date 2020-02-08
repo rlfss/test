@@ -47,3 +47,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 12.0
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 12.0

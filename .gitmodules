@@ -143,3 +143,8 @@
 	path = rlfss/test
 	url = git@github.com:rlfss/test.git
 	branch = Master3
+
+[submodule "rlfss/Planning"]
+	path = rlfss/Planning
+	url = git@github.com:rlfss/Planning.git
+	branch = Work

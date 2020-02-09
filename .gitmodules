@@ -153,3 +153,8 @@
 	path = rlfss/plan
 	url = git@github.com:rlfss/plan.git
 	branch = master
+
+[submodule "plan"]
+	path = plan
+	url = git@github.com:rlfss/plan.git
+	branch = master

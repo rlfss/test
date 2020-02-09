@@ -148,3 +148,8 @@
 	path = rlfss/Planning
 	url = git@github.com:rlfss/Planning.git
 	branch = Work
+
+[submodule "rlfss/plan"]
+	path = rlfss/plan
+	url = git@github.com:rlfss/plan.git
+	branch = master
